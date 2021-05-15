@@ -1,0 +1,50 @@
+
+*{
+background-color: black;
+color:blanchedalmond;
+}
+h3{
+    color:rgb(255, 0, 0) !important;
+    text-align: center;
+
+}
+h4{
+    color:rgb(111, 243, 71) !important;
+    text-align: center; 
+    font-size: 19px;
+}
+#h4{
+    color:rgb(33, 141, 0) !important;
+    text-align: center; 
+    font-size: 19px;
+    text-decoration: underline;  
+    color: cornsilk !important;
+}
+
+h2{
+    text-decoration: underline;
+    color:rgb(246, 248, 100) ;
+    text-align: center;
+}
+
+li{
+    list-style-type:none;
+}
+
+#india{
+    height: 95px;
+    width: auto;
+}
+span{
+    font-size: small;
+}
+.card__name{
+    font-size: large;
+font-weight: 700;
+}
+
+.card__small{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: 20px;
+}
